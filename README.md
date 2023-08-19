@@ -7,8 +7,8 @@ Ejercitaremos conceptos de *data types y operators* en el contexto de una ALU (A
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD02-Guia Ejercicio]():  Guía de ejercicios asociado a la ayudantía. 
-    * [Code_Example0.vhd](): El cual contiene el código VHDL utilizado en el laboratorio    
+    * [ALU.vhd](): El cual contiene el código VHDL de la ALU utilizado en la ayudantía    
     * [Zybo-Z7_Master.xdc]():  El cual contiene los constraints de nuestra tarjeta (mapeo de pines)    
-    * [AYDU02_VIVADO_Project.rar]():  Contine el projecto en vivado desarrollado en el laboratorio    
+    * [AYDU02_VIVADO_Project.zip]():  Contine el projecto en vivado desarrollado en el laboratorio    
    
 3. Durante la ayudantía se busca que desarrollen el ejercicio propuesto de la guía.
