@@ -3,7 +3,7 @@ En esta ayudantía desarrollaremos una ALU para realizar operaciones. Se impleme
 
 Ejercitaremos conceptos de *data types y operators* en el contexto de una ALU (Arithmetic Logic Unit). Además se incluirá en esta ayudantía el uso de la memoria de la ayudantía 1 con una leve modificación y desarrollo de un bloque adicional para manejar la lógica de las entradas de la ALU.
 
-1. Previo a nuestra ayudantía debes revisar este [video]() y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://www.youtube.com/watch?v=h553pa4J9vg&ab_channel=FELIXROJAS) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD02-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/AYUD02_DATA_TYPES_OPERATOR_ATTRIBUTES.pdf):  Guía de ejercicios asociado a la ayudantía. 
