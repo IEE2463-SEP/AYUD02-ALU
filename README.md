@@ -17,7 +17,7 @@ Esta ayudantía se divide en dos partes bien distintas:
 
 Debes llegar a la sesión con las **actividades previas ya desarrolladas y funcionando en la tarjeta**: el *Block Design* con la RAM, la máquina de estados y la ALU, y sobre ese mismo diseño las operaciones de **multiplicación y división** incorporadas a la ALU. Todo el detalle está en el [enunciado](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/HEAD/AYUD02-ALU.pdf).
 
-Ambas actividades están resueltas paso a paso en este video, grabado el año **2023 por la ex ayudante del curso Catalina Sierra**:
+La primera actividad (sin multiplicación y división) está resuelta paso a paso en este video, grabado el año **2023 por la ex ayudante del curso Catalina Sierra**:
 
 [![Video de la ayudantía 02](https://img.youtube.com/vi/h553pa4J9vg/hqdefault.jpg)](https://youtu.be/h553pa4J9vg)
 
