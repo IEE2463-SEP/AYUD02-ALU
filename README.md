@@ -4,7 +4,7 @@
 
 Ayudante a cargo: **Ernesto Ferrante** — ernesto.ferrante@uc.cl
 
-Esta ayudantía se divide en dos partes bien distintas, y conviene tener clara la diferencia antes de empezar:
+Esta ayudantía se divide en dos partes bien distintas:
 
 | | Qué es | Cuándo se hace |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@ Esta ayudantía se divide en dos partes bien distintas, y conviene tener clara l
 
 ## 🎥 Antes de la ayudantía
 
-Debe llegar a la sesión con las **actividades previas ya desarrolladas y funcionando en la tarjeta**: el *Block Design* con la RAM, la máquina de estados y la ALU, y sobre ese mismo diseño las operaciones de **multiplicación y división** incorporadas a la ALU. Todo el detalle está en el [enunciado](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/HEAD/AYUD02-ALU.pdf).
+Debes llegar a la sesión con las **actividades previas ya desarrolladas y funcionando en la tarjeta**: el *Block Design* con la RAM, la máquina de estados y la ALU, y sobre ese mismo diseño las operaciones de **multiplicación y división** incorporadas a la ALU. Todo el detalle está en el [enunciado](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/HEAD/AYUD02-ALU.pdf).
 
 Ambas actividades están resueltas paso a paso en este video, grabado el año **2023 por la ex ayudante del curso Catalina Sierra**:
 
